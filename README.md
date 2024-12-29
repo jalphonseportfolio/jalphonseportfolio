@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+<!--<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -18,6 +18,10 @@
 - <b>Python</b>-->
 
 <h2>💻 IT & Cybersecurity Projects:</h2>
+
+- <b>Security Audit and Incident Response:</b>
+  - [Performing a Security Audit](https://github.com/jalphonseportfolio/Performing-a-security-audit/blob/main/)
+
 
 <!--- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
