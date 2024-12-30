@@ -24,6 +24,7 @@
 - <b>Security Audit and Incident Response:</b>
   - [Performing a Security Audit](https://github.com/jalphonseportfolio/Performing-a-security-audit/blob/main/)
   - [NIST CSF Security Incident Report](https://github.com/jalphonseportfolio/NIST-CSF-Security-Incident-Report/blob/main/)
+  - [Using Incident Handler's Journal Template](https://github.com/jalphonseportfolio/Using-Incident-Handlers-Journal-Template/blob/main/)
   
 <!--- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
