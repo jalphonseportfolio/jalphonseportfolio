@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jonathan!👋 <br/><a href="https://github.com/jalphonseportfolio">Programmer</a>, <a href="https://www.linkedin.com/in/jonathan-alphonse/">Cybersecurity Professional</a></h1>
+<h1>Hello, I'm Jonathan!👋 <br/><a href="https://github.com/jalphonseportfolio">Programmer</a> & <a href="https://www.linkedin.com/in/jonathan-alphonse/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development and Security Projects:</h2>
 
