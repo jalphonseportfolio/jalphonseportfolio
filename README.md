@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Software Development and Security Projects:</h2>
 
+- [Python Removing Whitelisted IP Addresses](https://github.com/jalphonseportfolio/Python-File-Parse-IP-Address-WhiteList-Removal/blob/main/)
 - [Using Linux To Manage File Permissions](https://github.com/jalphonseportfolio/Using-Linux-To-Manage-File-Permissions/blob/main/)
 - [Managing Files Using Python](https://github.com/jalphonseportfolio/Managing-Files-Using-Python/tree/main/)
 <!--<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
