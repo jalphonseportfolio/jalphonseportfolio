@@ -27,6 +27,8 @@
   - [NIST CSF Security Incident Report](https://github.com/jalphonseportfolio/NIST-CSF-Security-Incident-Report/blob/main/)
   - [Using Incident Handler's Journal Template](https://github.com/jalphonseportfolio/Using-Incident-Handlers-Journal-Template/blob/main/)
   - [Investigate A Suspicious File Hash](https://github.com/jalphonseportfolio/Investigate-a-Suspicious-File-Hash/blob/main/)
+ 
+<h2>☁️ Cloud & Network Projects:</h2>
   
 <!--- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
