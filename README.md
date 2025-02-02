@@ -29,7 +29,7 @@
   - [Investigate A Suspicious File Hash](https://github.com/jalphonseportfolio/Investigate-a-Suspicious-File-Hash/blob/main/)
  
 - <b>Cloud & Network Projects:</b>
-  - Under Development
+  - [Azure Brute Force SIEM Logging Project](https://github.com/jalphonseportfolio/Brute-Force-SIEM-Logging-Project.git)
     
 <!--- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
