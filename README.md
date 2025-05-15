@@ -5,6 +5,7 @@
 - [Python Removing Whitelisted IP Addresses](https://github.com/jalphonseportfolio/Python-File-Parse-IP-Address-WhiteList-Removal/blob/main/)
 - [Using Linux To Manage File Permissions](https://github.com/jalphonseportfolio/Using-Linux-To-Manage-File-Permissions/blob/main/)
 - [Managing Files Using Python](https://github.com/jalphonseportfolio/Managing-Files-Using-Python/tree/main/)
+- [Memorable Passphrase Generator](https://github.com/jalphonseportfolio/passphrase-generator)
 <!--<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
